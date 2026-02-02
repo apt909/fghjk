@@ -1,5 +1,5 @@
 {
-  "server": "ws://seu-servidor.com:8080",
+  "server": "ws://prd-c-zhkqfz-f21aae-62-146-173-88.traefik.me",
   "version": "2.1.0",
   "update_url": "http://seu-servidor.com/downloads/updater_new.exe",
   "heartbeat": 10000
