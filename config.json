@@ -1,6 +1,6 @@
 {
   "server": "ws://prd-c-zhkqfz-f21aae-62-146-173-88.traefik.me",
   "version": "2.2.0",
-  "update_url": "https://virtualscreen.com.br/x.exe",
+  "update_url": "https://virtualscreen.com.br/downloads/sec.exe",
   "heartbeat": 10000
 }
